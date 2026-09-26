@@ -20,16 +20,16 @@ export const AGENCY = {
   slogan: 'SMART SOLUTIONS. REAL IMPACT.',
   description:
     'Agence algérienne spécialisée en intelligence artificielle, développement web & data. Nous aidons les entreprises, startups et porteurs de projets à croître grâce à des solutions digitales intelligentes.',
-  email: 'contact@praxisagency.dz',
-  phone: '+213 550 12 34 56', // ← remplace par ton vrai numéro
-  phoneDisplay: '+213 (0) 550 12 34 56',
+  email: 'praxisagencydz@gmail.com',
+  phone: '+213 663 31 80 66', // ← remplace par ton vrai numéro
+  phoneDisplay: '+213 663 31 80 66',
   location: 'Alger, Algérie',
   locationDetail: 'Rencontres physiques & virtuelles · Hub International',
   hours: 'Dimanche – Jeudi : 09:00 – 18:00',
   hoursDetail: 'Astreinte 24/7 pour les contrats Enterprise',
-  instagram: 'https://instagram.com/praxisagency.dz',
-  facebook: 'https://facebook.com/praxisagency.dz', // ← à compléter si tu as une page
-  linkedin: 'https://linkedin.com/company/praxisagency', // ← à compléter
+  instagram: 'https://www.instagram.com/praxisagency.dz?stkn=MjlqZHZmN3IwdnBw',
+  facebook: 'https://www.facebook.com/share/1M9NT9rtMz/', // ← à compléter si tu as une page
+  linkedin: '', // ← à compléter
   website: 'https://praxisagency.dz',
 }
 
